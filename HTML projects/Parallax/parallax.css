@@ -1,0 +1,89 @@
+html,body{
+    height:100%;
+    margin:0;
+    font-size: 16px;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: 400;
+    line-height:1.8em;
+}
+.nat1{
+    background-image: url(./Asserts/clement-fusil-Fpqx6GGXfXs-unsplash.jpg);
+    min-height:100%;
+    position:relative;  
+    background-attachment: fixed;
+}
+.text{
+    text-align: center;
+    position: absolute;
+    top:40%;
+    left:30%;
+    margin:auto;
+    padding:15px;
+    text-transform: uppercase;
+    font-size: 50px;
+    color:darkmagenta;
+    font-weight: bolder;
+    background-color: aliceblue;
+}
+.section{
+    padding:50px 80px;
+    text-align: center;
+    text-transform: uppercase;
+    color:black;
+}
+.sec-text{
+    background-color:aliceblue;
+    color:rgb(12, 137, 141);
+}
+.img2{
+    background-image: url(./Asserts/pexels-bri-schneiter-28802-346529.jpg);
+    min-height:500PX;
+    position:relative;  
+    background-attachment: fixed;
+}
+.text1{
+    text-align: center;
+    position: absolute;
+    top:40%;
+    left:30%;
+    margin:auto;
+    padding:15px;
+    text-transform: uppercase;
+    font-size: 50px;
+    color:darkmagenta;
+    font-weight: bolder;
+    background-color: aliceblue;
+}
+.img3{
+    background-image: url(./Asserts/pexels-luisdalvan-1770809.jpg);
+    min-height:500PX;
+    position:relative;  
+    background-attachment: fixed;
+}
+.text2{
+    text-align: center;
+    position: absolute;
+    top:40%;
+    left:30%;
+    margin:auto;
+    padding:15px;
+    text-transform: uppercase;
+    font-size: 50px;
+    color:darkmagenta;
+    font-weight: bolder;
+    background-color: aliceblue;
+}
+.text3{
+    text-align: center;
+    position: absolute;
+    top:40%;
+    left:30%;
+    margin:auto;
+    padding:15px;
+    text-transform: uppercase;
+    font-size: 50px;
+    color:darkmagenta;
+    font-weight: bolder;
+    background-color: aliceblue;
+}
+
